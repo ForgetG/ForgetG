@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **C**
 
-<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **9430@holbertonstudents.com**
+
 <p align="left">
 </p>
 
